@@ -1,4 +1,4 @@
-🥄🤖 Spoon Sentiment AI   
+##🥄🤖 Spoon Sentiment AI   
 *AI yang menebak “perasaan sendok” dari foto. Random? Iya. Seru? Banget.*
 
 ## 🎯 Apa Ini ?
